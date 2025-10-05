@@ -1,14 +1,17 @@
 {
-  "widget": {
-    "name": "Google Doc Viewer",
-    "description": "Виджет: встраивает Google документ",
-    "version": "1.0.0",
-    "interface": {
-      "board": {
-        "url": "https://werdit.github.io/amoCRM/index.html",
-        "width": 6,
-        "height": 3
-      }
+  "code": "gdoc_widget",
+  "version": "1.0.0",
+  "name": {
+    "ru": "Google Doc Viewer"
+  },
+  "description": {
+    "ru": "Виджет для отображения Google Docs"
+  },
+  "interface": {
+    "board": {
+      "url": "https://werdit.github.io/amoCRM/index.html",
+      "width": 6,
+      "height": 3
     }
   }
 }
